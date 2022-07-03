@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ExampleClass {
+public class Sifre {
 
 	public static void main(String[] args) {
 	Scanner input = new Scanner (System.in);
